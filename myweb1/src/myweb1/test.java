@@ -13,7 +13,7 @@ public class test {
 		this.lastname=lastname;
 	}
 	public String getName() {
-		System.out.println("hahahahaha");
+		System.out.println("hahahaha");
 		return name;
 	}
 	public String getlastname() {
